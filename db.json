@@ -41,7 +41,13 @@
       "location": "Giza, Egypt",
       "description": "A luxurious hotel with a view of the Pyramids of Giza.",
       "rating": 4.7,
-      "image": "https://example.com/images/mena-house.jpg"
+      "image": "https://example.com/images/mena-house.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Mena+House",
+      "gallery": [
+        "https://example.com/images/mena-house1.jpg",
+        "https://example.com/images/mena-house2.jpg",
+        "https://example.com/images/mena-house3.jpg"
+      ]
     },
     {
       "id": 2,
@@ -49,7 +55,13 @@
       "location": "Cairo, Egypt",
       "description": "A five-star hotel located along the Nile River, offering world-class amenities.",
       "rating": 4.8,
-      "image": "https://example.com/images/fairmont-nile-city.jpg"
+      "image": "https://example.com/images/fairmont-nile-city.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Fairmont+Nile+City",
+      "gallery": [
+        "https://example.com/images/fairmont1.jpg",
+        "https://example.com/images/fairmont2.jpg",
+        "https://example.com/images/fairmont3.jpg"
+      ]
     },
     {
       "id": 3,
@@ -57,7 +69,13 @@
       "location": "Cairo, Egypt",
       "description": "A luxury hotel offering a stunning Nile view and exceptional service.",
       "rating": 4.6,
-      "image": "https://example.com/images/sofitel-cairo.jpg"
+      "image": "https://example.com/images/sofitel-cairo.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Sofitel+Cairo",
+      "gallery": [
+        "https://example.com/images/sofitel1.jpg",
+        "https://example.com/images/sofitel2.jpg",
+        "https://example.com/images/sofitel3.jpg"
+      ]
     },
     {
       "id": 4,
@@ -65,7 +83,13 @@
       "location": "Sharm El Sheikh, Egypt",
       "description": "A beachside resort with premium rooms and a relaxing atmosphere.",
       "rating": 4.5,
-      "image": "https://example.com/images/sharm-marriott.jpg"
+      "image": "https://example.com/images/sharm-marriott.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Sharm+Marriott",
+      "gallery": [
+        "https://example.com/images/sharm1.jpg",
+        "https://example.com/images/sharm2.jpg",
+        "https://example.com/images/sharm3.jpg"
+      ]
     },
     {
       "id": 5,
@@ -73,7 +97,13 @@
       "location": "Cairo, Egypt",
       "description": "Located in the heart of Cairo, this hotel offers luxury and historical charm.",
       "rating": 4.9,
-      "image": "https://example.com/images/nile-ritz-carlton.jpg"
+      "image": "https://example.com/images/nile-ritz-carlton.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Ritz-Carlton",
+      "gallery": [
+        "https://example.com/images/ritz1.jpg",
+        "https://example.com/images/ritz2.jpg",
+        "https://example.com/images/ritz3.jpg"
+      ]
     },
     {
       "id": 6,
@@ -81,7 +111,13 @@
       "location": "Cairo, Egypt",
       "description": "A prestigious hotel offering the best in luxury accommodations and services.",
       "rating": 4.4,
-      "image": "https://example.com/images/concorde-el-salam.jpg"
+      "image": "https://example.com/images/concorde-el-salam.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Concorde+El+Salam",
+      "gallery": [
+        "https://example.com/images/concorde1.jpg",
+        "https://example.com/images/concorde2.jpg",
+        "https://example.com/images/concorde3.jpg"
+      ]
     },
     {
       "id": 7,
@@ -89,7 +125,13 @@
       "location": "Hurghada, Egypt",
       "description": "A resort offering beautiful views of the Red Sea and world-class amenities.",
       "rating": 4.7,
-      "image": "https://example.com/images/steigenberger-hurghada.jpg"
+      "image": "https://example.com/images/steigenberger-hurghada.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Aqua+Magic",
+      "gallery": [
+        "https://example.com/images/aqua1.jpg",
+        "https://example.com/images/aqua2.jpg",
+        "https://example.com/images/aqua3.jpg"
+      ]
     },
     {
       "id": 8,
@@ -97,7 +139,13 @@
       "location": "Alexandria, Egypt",
       "description": "A modern hotel overlooking the Mediterranean Sea with excellent service.",
       "rating": 4.5,
-      "image": "https://example.com/images/hilton-alexandria.jpg"
+      "image": "https://example.com/images/hilton-alexandria.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Hilton+Alexandria",
+      "gallery": [
+        "https://example.com/images/hilton1.jpg",
+        "https://example.com/images/hilton2.jpg",
+        "https://example.com/images/hilton3.jpg"
+      ]
     },
     {
       "id": 9,
@@ -105,7 +153,13 @@
       "location": "Hurghada, Egypt",
       "description": "A luxurious resort with private beaches and top-tier amenities.",
       "rating": 4.8,
-      "image": "https://example.com/images/steigenberger-makadi.jpg"
+      "image": "https://example.com/images/steigenberger-makadi.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Makadi+Resort",
+      "gallery": [
+        "https://example.com/images/makadi1.jpg",
+        "https://example.com/images/makadi2.jpg",
+        "https://example.com/images/makadi3.jpg"
+      ]
     },
     {
       "id": 10,
@@ -113,7 +167,13 @@
       "location": "Alexandria, Egypt",
       "description": "A prestigious hotel offering unparalleled luxury and views of the Mediterranean.",
       "rating": 4.9,
-      "image": "https://example.com/images/four-seasons-alexandria.jpg"
+      "image": "https://example.com/images/four-seasons-alexandria.jpg",
+      "placeholderImage": "https://via.placeholder.com/300x200?text=Four+Seasons",
+      "gallery": [
+        "https://example.com/images/fourseasons1.jpg",
+        "https://example.com/images/fourseasons2.jpg",
+        "https://example.com/images/fourseasons3.jpg"
+      ]
     }
   ],
   "bookings": [
