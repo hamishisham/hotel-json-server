@@ -176,24 +176,31 @@
       ]
     }
   ],
-  "bookings": [
-    {
-      "id": 1,
-      "userId": "5eeb",
-      "hotelId": 2,
-      "roomNumber": "304",
-      "checkIn": "2025-06-10",
-      "checkOut": "2025-06-12",
-      "status": "confirmed"
-    },
-    {
-      "id": 2,
-      "userId": "5eeb",
-      "hotelId": 1,
-      "roomNumber": "105",
-      "checkIn": "2025-07-01",
-      "checkOut": "2025-07-05",
-      "status": "pending"
-    }
-  ]
+ "bookings": [
+  {
+    "id": 1,
+    "userId": "5eeb",
+    "hotelId": 2,
+    "roomNumber": "304",
+    "checkIn": "2025-06-10",
+    "checkOut": "2025-06-12",
+    "status": "confirmed",
+    "numberOfRooms": 1,
+    "adults": 2,
+    "children": 1
+  },
+  {
+    "id": 2,
+    "userId": "5eeb",
+    "hotelId": 1,
+    "roomNumber": "105",
+    "checkIn": "2025-07-01",
+    "checkOut": "2025-07-05",
+    "status": "pending",
+    "numberOfRooms": 2,
+    "adults": 3,
+    "children": 2
+  }
+]
+
 }
